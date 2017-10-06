@@ -1,0 +1,24 @@
+{
+  "name": "trabalhodsi.git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasRocha97/TrabalhoDSI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasRocha97/TrabalhoDSI/issues"
+  },
+  "homepage": "https://github.com/lucasRocha97/TrabalhoDSI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "pg": "^7.3.0"
+  }
+}
